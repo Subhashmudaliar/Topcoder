@@ -13,8 +13,8 @@ http://codeforces.com/problemset/problem/266/A    [DONE]
 http://codeforces.com/problemset/problem/96/A     [DONE]
 http://codeforces.com/problemset/problem/133/A
 http://codeforces.com/problemset/problem/112/A    [DONE]
-http://codeforces.com/problemset/problem/82/A     
-http://codeforces.com/problemset/problem/119/A
+http://codeforces.com/problemset/problem/82/A     [DONE]
+http://codeforces.com/problemset/problem/119/A    [DONE]
 http://codeforces.com/problemset/problem/148/A
 http://codeforces.com/problemset/problem/160/A
 http://codeforces.com/problemset/problem/281/A
