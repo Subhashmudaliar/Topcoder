@@ -1,19 +1,19 @@
-http://codeforces.com/problemset/problem/1/A
-http://codeforces.com/problemset/problem/4/A
-http://codeforces.com/problemset/problem/158/A
-http://codeforces.com/problemset/problem/71/A
-http://codeforces.com/problemset/problem/118/A
+http://codeforces.com/problemset/problem/1/A  [DONE]
+http://codeforces.com/problemset/problem/4/A    [DONE]
+http://codeforces.com/problemset/problem/158/A    [DONE]
+http://codeforces.com/problemset/problem/71/A   [DONE]
+http://codeforces.com/problemset/problem/118/A    [DONE]
 http://codeforces.com/problemset/problem/158/B
-http://codeforces.com/problemset/problem/50/A
-http://codeforces.com/problemset/problem/231/A
-http://codeforces.com/problemset/problem/116/A
-http://codeforces.com/problemset/problem/131/A
-http://codeforces.com/problemset/problem/282/A
-http://codeforces.com/problemset/problem/266/A
-http://codeforces.com/problemset/problem/96/A
+http://codeforces.com/problemset/problem/50/A   [DONE]
+http://codeforces.com/problemset/problem/231/A  [DONE]
+http://codeforces.com/problemset/problem/116/A  [DONE]
+http://codeforces.com/problemset/problem/131/A  
+http://codeforces.com/problemset/problem/282/A   [DONE]
+http://codeforces.com/problemset/problem/266/A    [DONE]
+http://codeforces.com/problemset/problem/96/A     [DONE]
 http://codeforces.com/problemset/problem/133/A
-http://codeforces.com/problemset/problem/112/A
-http://codeforces.com/problemset/problem/82/A
+http://codeforces.com/problemset/problem/112/A    [DONE]
+http://codeforces.com/problemset/problem/82/A     
 http://codeforces.com/problemset/problem/119/A
 http://codeforces.com/problemset/problem/148/A
 http://codeforces.com/problemset/problem/160/A
